@@ -1,4 +1,4 @@
-
+**Flipping a coin using a quantum computer**
 
 What if a quantum computer does the work for you when you decide to toss a coin to choose whom to bat first in a cricket match or who should make the first move in chess?
 
